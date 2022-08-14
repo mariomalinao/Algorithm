@@ -9,13 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.FileReceiver", "A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.MeetingScheduler", "Algorithm.MeetingScheduler\Algorithm.MeetingScheduler\Algorithm.MeetingScheduler.csproj", "{FE724CB1-8185-4ECD-BDF1-6BC06B605F0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.Palindrome", "Algorithm.Palindrome\Algorithm.Palindrome.csproj", "{74E37F7C-2C5D-462D-9FF3-AB66904D1BD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.Palindrome", "Algorithm.Palindrome\Algorithm.Palindrome.csproj", "{74E37F7C-2C5D-462D-9FF3-AB66904D1BD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.ReverseSentenceOrder", "Algorithm.ReverseSentenceOrder\Algorithm.ReverseSentenceOrder.csproj", "{2DE14A53-8AE1-4DAE-92CE-CC85EDC429BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.ReverseSentenceOrder", "Algorithm.ReverseSentenceOrder\Algorithm.ReverseSentenceOrder.csproj", "{2DE14A53-8AE1-4DAE-92CE-CC85EDC429BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.ReverseEachWord", "Algorithm.ReverseEachWord\Algorithm.ReverseEachWord.csproj", "{8CA58764-3D0E-4E6A-89C1-45D0C0195C37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.ReverseEachWord", "Algorithm.ReverseEachWord\Algorithm.ReverseEachWord.csproj", "{8CA58764-3D0E-4E6A-89C1-45D0C0195C37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.FindSameCharacter", "Algorithm.FindSameCharacter\Algorithm.FindSameCharacter.csproj", "{D4B153E7-1FCF-4CC7-B116-C2B5940584EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.FindSameCharacter", "Algorithm.FindSameCharacter\Algorithm.FindSameCharacter.csproj", "{D4B153E7-1FCF-4CC7-B116-C2B5940584EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.RemoveDuplicateCharacters", "Algorithm.RemoveDuplicateCharacters\Algorithm.RemoveDuplicateCharacters.csproj", "{091D85BA-E2FF-491F-B7A4-6D329999C410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.CoinChanger", "Algorithm.CoinChanger\Algorithm.CoinChanger.csproj", "{508860F7-EE7D-40F0-9034-D4AFC4D3158D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{D4B153E7-1FCF-4CC7-B116-C2B5940584EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4B153E7-1FCF-4CC7-B116-C2B5940584EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4B153E7-1FCF-4CC7-B116-C2B5940584EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091D85BA-E2FF-491F-B7A4-6D329999C410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091D85BA-E2FF-491F-B7A4-6D329999C410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091D85BA-E2FF-491F-B7A4-6D329999C410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091D85BA-E2FF-491F-B7A4-6D329999C410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{508860F7-EE7D-40F0-9034-D4AFC4D3158D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508860F7-EE7D-40F0-9034-D4AFC4D3158D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508860F7-EE7D-40F0-9034-D4AFC4D3158D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508860F7-EE7D-40F0-9034-D4AFC4D3158D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
